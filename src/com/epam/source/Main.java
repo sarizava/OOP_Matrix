@@ -2,7 +2,7 @@ package com.epam.source;
 
 
 /**
- * Created by GoodZone on 16.05.2015.
+ * Created by Ruzhkov Nikolay on 16.05.2015.
  */
 public class Main {
     public static void main(String[] args) {

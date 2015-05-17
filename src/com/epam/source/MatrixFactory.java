@@ -1,9 +1,7 @@
 package com.epam.source;
 
-import sun.text.bidi.BidiBase;
-
 /**
- * Created by GoodZone on 16.05.2015.
+ * Created by Ruzhkov Nikolay on 16.05.2015.
  */
 public class MatrixFactory{
     public int[][] FillMatrixRandom(int[][] matrixX, int ColCount, int RowCount){
